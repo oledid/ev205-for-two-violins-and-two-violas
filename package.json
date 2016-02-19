@@ -1,0 +1,31 @@
+{
+  "name": "ev205-for-two-violins-and-two-violas",
+  "version": "1.0.0",
+  "description": "A composition for two violins and two violas",
+  "main": "ev205.ly",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oledid/ev205-for-two-violins-and-two-violas.git"
+  },
+  "keywords": [
+    "music",
+    "violin",
+    "viola",
+    "lilypond"
+  ],
+  "author": "Ole Morten Didriksen",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/oledid/ev205-for-two-violins-and-two-violas/issues"
+  },
+  "homepage": "https://github.com/oledid/ev205-for-two-violins-and-two-violas#readme",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.5"
+  }
+}
