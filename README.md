@@ -1,7 +1,7 @@
 # EV205
-A composition for two violins and two violas by @oledid, inspired by buying a Yamaha EV-205 in 2009.
+A composition for two violins and two violas by [@oledid](https://github.com/oledid/), inspired by buying a Yamaha EV-205 in 2009.
 
-The notes are written in [Lilypond](https://www.lilypond.org). You can rebuild the score with `gulp build` or `gulp watch` after running `npm install`.
+The notes are written in [Lilypond](http://www.lilypond.org). You can rebuild the score with `gulp build` or `gulp watch` after running `npm install`.
 
 
 ## License
