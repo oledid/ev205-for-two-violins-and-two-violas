@@ -8,4 +8,4 @@ The notes are written in [Lilypond](https://www.lilypond.org). You can rebuild t
 EV-205 by Ole Morten Didriksen is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Compiled score
-![build/ev205.png]
+![EV205 by Ole Morten Didriksen](build/ev205.png)
